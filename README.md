@@ -1,10 +1,6 @@
-Hey Phil,
-Here's my stuff.
-
-It's not great, but it makes me happy.
-Way happier than it should.
-
-I love it.
+Hey there. Look at my stuff.
+Maybe download it and tell me how to fix it?
+That would be cool.
 
 <!---
 wholesomeow/wholesomeow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
